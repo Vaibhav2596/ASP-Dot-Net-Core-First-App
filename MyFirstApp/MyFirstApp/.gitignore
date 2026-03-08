@@ -1,0 +1,69 @@
+# =========================
+# Build folders
+# =========================
+bin/
+obj/
+Debug/
+Release/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# JetBrains Rider
+# =========================
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# ASP.NET / IIS
+# =========================
+iisexpress/
+publish/
+
+# =========================
+# Environment settings
+# =========================
+appsettings.Development.json
+
+# =========================
+# Node packages (if Angular/React added later)
+# =========================
+node_modules/
+
+# =========================
+# Test results
+# =========================
+TestResults/
+
+# =========================
+# ReSharper
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# dotnet watch
+# =========================
+.dotnet/
